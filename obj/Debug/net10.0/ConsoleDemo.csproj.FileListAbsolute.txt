@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ConsoleDemo\bin\Debug\net10.0\ConsoleDemo.exe
+C:\Users\Hp\source\repos\ConsoleDemo\bin\Debug\net10.0\ConsoleDemo.deps.json
+C:\Users\Hp\source\repos\ConsoleDemo\bin\Debug\net10.0\ConsoleDemo.runtimeconfig.json
+C:\Users\Hp\source\repos\ConsoleDemo\bin\Debug\net10.0\ConsoleDemo.dll
+C:\Users\Hp\source\repos\ConsoleDemo\bin\Debug\net10.0\ConsoleDemo.pdb
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.dll
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\refint\ConsoleDemo.dll
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.pdb
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ConsoleDemo.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ConsoleDemo\obj\Debug\net10.0\ref\ConsoleDemo.dll
